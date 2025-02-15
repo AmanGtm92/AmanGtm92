@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://www.instagram.com/haztech_coderz?igsh=MXg1NTdoN2w3a3Zscw==" target="blank"><img src="https://img.shields.io/twitter/follow/haztech_coderz?logo=twitter&style=for-the-badge" alt="amangtm92" /></a> </p>
 
-- 🌱 I’m currently learning **BCA**
+- 🌱 I’m currently learning **Computer Application**
 
 - 💬 Ask me about **Python, C, JavaScript, HTML, CSS**
 
