@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amangtm92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amangtm92" height="30" width="40" /></a>
+<a href="https://x.com/amanGTM92?t=8fOmt1A55P7WM_MBSFfuaw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amangtm92" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aman-gautam-76b045245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-gautam-" height="30" width="40" /></a>
 <a href="https://www.instagram.com/haztech_coderz?igsh=MXg1NTdoN2w3a3Zscw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/haztech_coderz?igsh=mxg1ntdon2w3a3zscw==" height="30" width="40" /></a>
 </p>
