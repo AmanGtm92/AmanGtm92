@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/amangtm92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amangtm92" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-gautam-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-gautam-" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/haztech_coderz?igsh=mxg1ntdon2w3a3zscw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/haztech_coderz?igsh=mxg1ntdon2w3a3zscw==" height="30" width="40" /></a>
+<a href="https://www.instagram.com/haztech_coderz?igsh=MXg1NTdoN2w3a3Zscw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/haztech_coderz?igsh=mxg1ntdon2w3a3zscw==" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
