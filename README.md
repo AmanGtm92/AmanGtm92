@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amangtm92&label=Profile%20views&color=0e75b6&style=flat" alt="amangtm92" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/haztech_coderz?igsh=MXg1NTdoN2w3a3Zscw==" target="blank"><img src="https://img.shields.io/twitter/follow/amangtm92?logo=twitter&style=for-the-badge" alt="amangtm92" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/haztech_coderz?igsh=MXg1NTdoN2w3a3Zscw==" target="blank"><img src="https://img.shields.io/twitter/follow/haztech_coderz?logo=twitter&style=for-the-badge" alt="amangtm92" /></a> </p>
 
 - 🌱 I’m currently learning **BCA**
 
