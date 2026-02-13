@@ -46,6 +46,14 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=amangautam123&theme=radical&margin-w=15" />
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangtm92&show_icons=true&locale=en&layout=compact" alt="amangtm92" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amangtm92&show_icons=true&locale=en" alt="amangtm92" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amangtm92&" alt="amangtm92" /></p>
+
 
 
 
